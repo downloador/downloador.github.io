@@ -332,7 +332,7 @@ var app = function() {
             url: "https://www.heardle.app",
             googleAnalytics: "G-3QSG4MYSLD",
             options: "https://api.heardle.app/api/o",
-            answers: "https://downloador.github.io/more-heardle/all.json",
+            answers: "all.json",
             supporters: "https://api.heardle.app/api/s"
         },
         oe = ["Unlucky!", "A virtuoso performance!", "An act of genius!", "You're a star!", "What a pro!", "You're a winner!", "Good result!"];
